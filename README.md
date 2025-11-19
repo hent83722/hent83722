@@ -4,7 +4,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hent83722&layout=compact&theme=radical)
 
-![Profile views](https://komarev.com/ghpvc/?username=hent83722)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -14,3 +13,4 @@
 
 
 ![GitHub followers](https://img.shields.io/github/followers/hent83722?style=social)
+![Profile views](https://komarev.com/ghpvc/?username=hent83722)
