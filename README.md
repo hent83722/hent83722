@@ -6,8 +6,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hent83722&layout=compact&theme=radical)
 
-![Profile views](https://komarev.com/ghpvc/?username=hent83722)
-![GitHub followers](https://img.shields.io/github/followers/hent83722?style=social)
 ---
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -17,3 +15,6 @@
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
+---
+![Profile views](https://komarev.com/ghpvc/?username=hent83722)
+![GitHub followers](https://img.shields.io/github/followers/hent83722?style=social)
