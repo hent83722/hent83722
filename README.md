@@ -1,4 +1,4 @@
-### GitHub Stats
+
 
 <img align="right" src="assets/konata.gif" width="200">
 
