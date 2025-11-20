@@ -1,5 +1,3 @@
-
-
 <img align="right" src="assets/konata.gif" width="200">
 
 ![hent83722's GitHub stats](https://github-readme-stats.vercel.app/api?username=hent83722&show_icons=true&theme=radical)
