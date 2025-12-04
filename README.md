@@ -1,7 +1,13 @@
 <img align="right" src="assets/konata.gif" width="200">
 
+## 📊 GitHub Stats
 
-![hent83722's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hent83722&show_icons=true&theme=radical)
+![hent83722's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hent83722&show_icons=true&theme=radical&cache_seconds=7200)
+
+## 🔤 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hent83722&layout=compact&theme=radical&cache_seconds=7200)
+
 
 
 
